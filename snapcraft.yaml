@@ -562,7 +562,6 @@ parts:
       - -Dintrospection=enabled
       - -Ddocumentation=false
       - -Dbuild-examples=false
-      - -Dbuild-tests=false
       - -Dmedia-gstreamer=enabled
       - -Dbuild-demos=false
       - -Dbuild-testsuite=false
